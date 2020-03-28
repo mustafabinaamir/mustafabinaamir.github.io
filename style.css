@@ -12,6 +12,13 @@
   color: #358279;
 }
 
+
+p{
+  font-size: 1.2em;
+  color: #777;
+  font-family: sans-serif;
+}
+
 .contents{
   margin-left: 20px;
 }
